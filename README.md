@@ -1,6 +1,6 @@
 Udemy downloader chrome extension lets you download udemy videos for your personal use.
 
-.crx file dowload <a href="https://github.com/ramachandrajr/UdemyDownloader/raw/master/UdemyDownloader.crx" download>link</a>
+.crx file dowload <a href="https://github.com/ramachandrajr/UdemyDownloader/raw/master/Extension.crx" download>link</a>
 
 If you'd like to create the package all by yourself, follow these <a href="https://developer.chrome.com/apps/packaging#creating">instructions</a>
 
