@@ -6,7 +6,7 @@ If you'd like to create the package all by yourself, follow these <a href="https
 
 ### Set your chrome up for proper filenames
 1. Chrome does not let us manipulate filenames when downloading from a non-same origin source (cross origin)
-2. So I urge you to go to <a href="chrome://settings/?search=download">this url</a> in your chrome and scrolldown to __Ask where to save each file before downloading__
+2. So I urge you to go to chrome://settings/?search=download in your chrome and scrolldown to __Ask where to save each file before downloading__
 3. Toggle it to set if it is not set already.
 4. This will help you set the name of the file right when you download it. 
 5. This is one of the downsides of chrome extension based downloders
